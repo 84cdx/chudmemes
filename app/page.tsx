@@ -203,7 +203,7 @@ export default function MikuCatWisdom() {
   if (!mounted) return <div className="min-h-screen bg-neutral-950" />;
 
   return (
-    <div className="min-h-screen bg-neutral-950 text-white flex flex-col items-center justify-center p-6 font-sans relative overflow-hidden">
+    <div className="min-h-screen bg-[url('/background.png')] bg-cover bg-center bg-no-repeat text-white flex flex-col items-center justify-center p-6 font-sans relative overflow-hidden">
 
       <div className="absolute top-[-10%] left-[-10%] w-96 h-96 bg-miku-cyan rounded-full mix-blend-screen filter blur-[150px] opacity-20 pointer-events-none" />
       <div className="absolute bottom-[-10%] right-[-10%] w-[30rem] h-[30rem] bg-indigo-600 rounded-full mix-blend-screen filter blur-[150px] opacity-20 pointer-events-none" />
