@@ -1,0 +1,28 @@
+﻿
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"batchcomplete":"","query":{"normalized":[{"from":"
+                    File:Hatsune_Miku_V4X.png","to":"File:Hatsune Miku V
+                    4X.png"},{"from":"File:Hatsune_Miku_Magical_Mirai_20
+                    16_main_visual.jpg","to":"File:Hatsune Miku ...
+RawContent        : HTTP/1.1 200 OK
+                    x-content-type-options: nosniff
+                    content-security-policy: default-src 'self'; 
+                    script-src 'none'; object-src 'none'
+                    x-frame-options: DENY
+                    content-disposition: inline; filename=api-re...
+Forms             : 
+Headers           : {[x-content-type-options, nosniff], 
+                    [content-security-policy, default-src 'self'; 
+                    script-src 'none'; object-src 'none'], 
+                    [x-frame-options, DENY], [content-disposition, 
+                    inline; filename=api-result.json]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : 
+RawContentLength  : 809
+
+
+
