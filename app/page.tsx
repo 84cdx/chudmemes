@@ -3,24 +3,9 @@
 import React, { useState, useEffect, useCallback, useRef } from 'react';
 import { Sparkles, RefreshCw, Github, Download } from 'lucide-react';
 import { PROVERBS } from './data/proverbs';
+import { MIKU_URLS } from './data/mikuUrls';
 
 // --- DATA ---
-
-const MIKU_URLS = [
-  "/images_miku/miku_100.jpg", "/images_miku/miku_101.jpg", "/images_miku/miku_102.jpg",
-  "/images_miku/miku_103.jpg", "/images_miku/miku_104.jpg", "/images_miku/miku_105.jpg",
-  "/images_miku/miku_106.jpg", "/images_miku/miku_107.jpg", "/images_miku/miku_108.jpg",
-  "/images_miku/miku_109.jpg", "/images_miku/miku_110.jpg", "/images_miku/miku_111.jpg",
-  "/images_miku/miku_112.jpg", "/images_miku/miku_113.jpg", "/images_miku/miku_114.png",
-  "/images_miku/miku_115.jpg", "/images_miku/miku_116.jpg", "/images_miku/miku_117.jpg",
-  "/images_miku/miku_118.jpg", "/images_miku/miku_119.jpg", "/images_miku/miku_120.jpg",
-  "/images_miku/miku_121.jpg", "/images_miku/miku_122.jpg", "/images_miku/miku_123.jpg",
-  "/images_miku/miku_124.jpg", "/images_miku/miku_125.jpg", "/images_miku/miku_126.jpg",
-  "/images_miku/miku_127.jpg", "/images_miku/miku_128.jpg", "/images_miku/miku_129.jpg",
-  "/images_miku/miku_130.jpg", "/images_miku/miku_131.png", "/images_miku/miku_132.jpg",
-  "/images_miku/miku_133.jpg", "/images_miku/miku_134.jpg", "/images_miku/miku_135.jpg",
-  "/images_miku/miku_136.jpg", "/images_miku/miku_137.jpg"
-];
 
 
 // --- COMPONENT ---
