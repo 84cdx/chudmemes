@@ -35,7 +35,7 @@ This repository is also an experiment in **AI pair-programming** using Cursor an
 - AI-assisted TypeScript refactoring to keep component/data boundaries explicit.
 - Automated filesystem scripting support for bulk asset renaming and normalization.
 
-## Key Technical Features
+## Key Technical Features 
 
 - Client-rendered architecture via `use client` for interactive generation and canvas operations.
 - Dynamic canvas scaling and export flow for consistent on-screen preview and downloadable output.
