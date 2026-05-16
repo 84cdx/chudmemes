@@ -2,13 +2,13 @@
 
 **Technical case study: Canvas-based meme generation with AI-assisted development workflows.**
 
-<img width="784" height="909" alt="Screenshot_533" src="https://github.com/user-attachments/assets/61f0dafd-bdb5-4636-91d3-14dd0b9cfe00" />
-
 ## Project Overview
 
 Chudmemes is a portfolio project focused on implementing a Canvas-based meme generator in **Next.js** with strongly typed frontend logic and reproducible AI-supported development workflows.
 
 Live deployment: [https://chudmemes.vercel.app](https://chudmemes.vercel.app)
+
+<img width="784" height="909" alt="Screenshot_533" src="https://github.com/user-attachments/assets/61f0dafd-bdb5-4636-91d3-14dd0b9cfe00" />
 
 ## Core Technical Challenges
 
